@@ -6,4 +6,4 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haohaostudio&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kgym-Hina&count_private=true)
