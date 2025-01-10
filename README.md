@@ -13,8 +13,6 @@
 
 - 📱 Amateur Radio Operator **BG8LRR QTH OL39**
 
-- ⚡ Fun fact **This guy is an otaku lol**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
