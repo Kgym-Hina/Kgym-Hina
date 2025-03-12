@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm BG8LRR</h1>
-<h3 align="center">A passionate full-stack developer from CN</h3>
+<h3 align="center">A passionate developer from CN</h3>
 
 - 🔭 I’m currently working on [Ham Toolkit](https://last-remote.xyz/#/ham)
 
 - 🌱 I’m currently learning **Kotlin, STM32 HAL**
 
-- 👨‍💻 All of my published projects are available at [https://last-remote.xyz/](https://last-remote.xyz/)
+- 👨‍💻 All of my published projects are available at [https://clarium-noctis.cc](https://clarium-noctis.cc)
 
-- 📝 I regularly write articles on [https://blog.last-remote.xyz/](https://blog.last-remote.xyz/)
+- 📝 I regularly write articles on [https://clarium-noctis.cc](https://clarium-noctis.cc)
 
 - 📫 How to reach me **hina@last-remote.xyz**
 
-- 📱 Amateur Radio Operator **BG8LRR QTH OL39**
+- 📱 Amateur Radio Operator **BG8LRR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
